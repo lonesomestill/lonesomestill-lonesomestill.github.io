@@ -2,52 +2,84 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>/bios/gm_temp2/</loc>
+  </url><url>
+    <loc>/</loc>
+    <lastmod>2021-10-01T18:21:28-07:00</lastmod>
+  </url><url>
+    <loc>/gallery-backup/</loc>
+    <lastmod>2021-10-01T18:21:28-07:00</lastmod>
+  </url><url>
+    <loc>/gallery/</loc>
+    <lastmod>2021-10-01T18:21:28-07:00</lastmod>
+  </url><url>
+    <loc>/gallery-backup/hello-world/</loc>
+    <lastmod>2021-10-01T18:21:28-07:00</lastmod>
+  </url><url>
+    <loc>/gallery/hello-world/</loc>
+    <lastmod>2021-10-01T18:21:28-07:00</lastmod>
+  </url><url>
     <loc>/authors/</loc>
     <lastmod>2021-03-31T13:11:22+08:00</lastmod>
   </url><url>
-    <loc>/Gallery/diagram-support/</loc>
+    <loc>/gallery-backup/diagram-support/</loc>
     <lastmod>2021-03-31T13:11:22+08:00</lastmod>
   </url><url>
-    <loc>/</loc>
+    <loc>/gallery/diagram-support/</loc>
     <lastmod>2021-03-31T13:11:22+08:00</lastmod>
   </url><url>
     <loc>/authors/example-author/</loc>
     <lastmod>2021-03-31T13:11:22+08:00</lastmod>
   </url><url>
-    <loc>/Gallery/</loc>
-    <lastmod>2021-03-31T13:11:22+08:00</lastmod>
-  </url><url>
-    <loc>/Gallery/math-support/</loc>
+    <loc>/gallery-backup/math-support/</loc>
     <lastmod>2020-11-20T22:52:56+08:00</lastmod>
   </url><url>
-    <loc>/Bios/example-doc/chapter-1/</loc>
+    <loc>/gallery/math-support/</loc>
+    <lastmod>2020-11-20T22:52:56+08:00</lastmod>
+  </url><url>
+    <loc>/docs-copy/example-doc/chapter-1/</loc>
     <lastmod>2020-10-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/Bios/example-doc/nested-chapter/chapter-1/</loc>
+    <loc>/docs-copy/example-doc/nested-chapter/chapter-1/</loc>
     <lastmod>2020-10-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/Bios/example-doc/chapter-2/</loc>
+    <loc>/docs-copy/example-doc/chapter-2/</loc>
     <lastmod>2020-10-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/Bios/example-doc/nested-chapter/chapter-2/</loc>
+    <loc>/docs-copy/example-doc/nested-chapter/chapter-2/</loc>
     <lastmod>2020-10-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/Bios/</loc>
+    <loc>/docs-copy/</loc>
     <lastmod>2020-10-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/Bios/example-doc/</loc>
+    <loc>/docs-copy/example-doc/</loc>
     <lastmod>2020-10-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/Bios/example-doc/nested-chapter/</loc>
+    <loc>/docs-copy/example-doc/nested-chapter/</loc>
     <lastmod>2020-10-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/bios/</loc>
+    <lastmod>2020-05-26T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/categories/</loc>
     <lastmod>2020-05-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/Gallery/featured-image/</loc>
+    <loc>/gallery-backup/featured-image/</loc>
+    <lastmod>2020-05-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/gallery/featured-image/</loc>
+    <lastmod>2020-05-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/bios/ik/</loc>
     <lastmod>2020-05-26T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/tags/image/</loc>
+    <lastmod>2020-05-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/bios/michelle/</loc>
+    <lastmod>2020-05-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/bios/nh/</loc>
     <lastmod>2020-05-26T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/series/</loc>
@@ -74,7 +106,10 @@
     <loc>/tags/markdown/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/Gallery/markdown-syntax/</loc>
+    <loc>/gallery-backup/markdown-syntax/</loc>
+    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/gallery/markdown-syntax/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/categories/syntax/</loc>
@@ -83,7 +118,10 @@
     <loc>/tags/themes/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/Gallery/placeholder-text/</loc>
+    <loc>/gallery-backup/placeholder-text/</loc>
+    <lastmod>2019-03-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/gallery/placeholder-text/</loc>
     <lastmod>2019-03-09T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/tags/text/</loc>
@@ -92,7 +130,12 @@
     <loc>/tags/emoji/</loc>
     <lastmod>2019-03-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/Gallery/emoji-support/</loc>
+    <loc>/gallery-backup/emoji-support/</loc>
     <lastmod>2019-03-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/gallery/emoji-support/</loc>
+    <lastmod>2019-03-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/bios/gm/</loc>
   </url>
 </urlset>
