@@ -6,16 +6,16 @@
     <description>Recent content on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <copyright>&amp;copy; 2021 &lt;a href=&#34;https://www.wangchucheng.com/&#34;&gt;C. Wang&lt;/a&gt; and &lt;a href=&#34;https://www.ruiqima.com/&#34;&gt;R. Ma&lt;/a&gt;
+    <copyright>&amp;copy; 2021 Lonesome Still
 </copyright>
     <lastBuildDate>Fri, 01 Oct 2021 18:21:28 -0700</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Garrett Massman 2</title>
-      <link>/bios/gm_temp2/</link>
+      <title></title>
+      <link>/contact/contact2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/bios/gm_temp2/</guid>
-      <description></description>
+      <guid>/contact/contact2/</guid>
+      <description>Interested in having Lonsome Still play? Or just want to reach the band? Send us an email at lonesomestillsf@gmail.com and we&amp;rsquo;ll get back to you promptly.</description>
     </item>
     
     <item>
@@ -28,47 +28,11 @@
     </item>
     
     <item>
-      <title>Hello World</title>
-      <link>/gallery/hello-world/</link>
-      <pubDate>Fri, 01 Oct 2021 18:21:28 -0700</pubDate>
-      
-      <guid>/gallery/hello-world/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Diagram Support</title>
-      <link>/gallery-backup/diagram-support/</link>
-      <pubDate>Wed, 31 Mar 2021 13:11:22 +0800</pubDate>
-      
-      <guid>/gallery-backup/diagram-support/</guid>
-      <description>&lt;p&gt;Eureka supports the rendering of diagrams by using Mermaid.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Diagram Support</title>
-      <link>/gallery/diagram-support/</link>
-      <pubDate>Wed, 31 Mar 2021 13:11:22 +0800</pubDate>
-      
-      <guid>/gallery/diagram-support/</guid>
-      <description>&lt;p&gt;Eureka supports the rendering of diagrams by using Mermaid.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
       <title>Math Support</title>
       <link>/gallery-backup/math-support/</link>
       <pubDate>Fri, 20 Nov 2020 22:52:56 +0800</pubDate>
       
       <guid>/gallery-backup/math-support/</guid>
-      <description>&lt;p&gt;Eureka supports the rendering of mathematical formulas by using KaTeX.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Math Support</title>
-      <link>/gallery/math-support/</link>
-      <pubDate>Fri, 20 Nov 2020 22:52:56 +0800</pubDate>
-      
-      <guid>/gallery/math-support/</guid>
       <description>&lt;p&gt;Eureka supports the rendering of mathematical formulas by using KaTeX.&lt;/p&gt;</description>
     </item>
     
@@ -118,56 +82,11 @@
     </item>
     
     <item>
-      <title>Featured Image</title>
-      <link>/gallery/featured-image/</link>
-      <pubDate>Tue, 26 May 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/gallery/featured-image/</guid>
-      <description>&lt;p&gt;Maecenas maximus, elit in ornare porttitor, nisi eros hendrerit nisl, sed fermentum nulla urna blandit tellus.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Ian</title>
-      <link>/bios/ik/</link>
-      <pubDate>Tue, 26 May 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/bios/ik/</guid>
-      <description>&lt;p&gt;Maecenas maximus, elit in ornare porttitor, nisi eros hendrerit nisl, sed fermentum nulla urna blandit tellus.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Michelle</title>
-      <link>/bios/michelle/</link>
-      <pubDate>Tue, 26 May 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/bios/michelle/</guid>
-      <description>&lt;p&gt;Maecenas maximus, elit in ornare porttitor, nisi eros hendrerit nisl, sed fermentum nulla urna blandit tellus.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Nat</title>
-      <link>/bios/nh/</link>
-      <pubDate>Tue, 26 May 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/bios/nh/</guid>
-      <description>&lt;p&gt;Maecenas maximus, elit in ornare porttitor, nisi eros hendrerit nisl, sed fermentum nulla urna blandit tellus.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
       <title>Markdown Syntax Guide</title>
       <link>/gallery-backup/markdown-syntax/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
       <guid>/gallery-backup/markdown-syntax/</guid>
-      <description>&lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Markdown Syntax Guide</title>
-      <link>/gallery/markdown-syntax/</link>
-      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/gallery/markdown-syntax/</guid>
       <description>&lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p&gt;</description>
     </item>
     
@@ -181,15 +100,6 @@
     </item>
     
     <item>
-      <title>Placeholder Text</title>
-      <link>/gallery/placeholder-text/</link>
-      <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/gallery/placeholder-text/</guid>
-      <description>&lt;p&gt;Lorem est tota propiore conpellat pectoribus de pectora summo.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
       <title>Emoji Support</title>
       <link>/gallery-backup/emoji-support/</link>
       <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
@@ -199,21 +109,39 @@
     </item>
     
     <item>
-      <title>Emoji Support</title>
-      <link>/gallery/emoji-support/</link>
-      <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/gallery/emoji-support/</guid>
-      <description>&lt;p&gt;Emoji can be enabled in a Hugo project in a number of ways.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
       <title>Garrett Massman</title>
       <link>/bios/gm/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/bios/gm/</guid>
-      <description>Garrett Massman</description>
+      <description>Garrett Massman got his start on electric guitar but was eventually corrupted by his bluegrass roots in Signal Mountain, TN. He brings a twang to his songwriting, guitar, dobro, mandolin, programming code, and software documentation.</description>
+    </item>
+    
+    <item>
+      <title>Ian Kelmartin</title>
+      <link>/bios/ik/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/bios/ik/</guid>
+      <description>Ian comes to the Bay by way of Humboldt County, CA, hailing originally from PA. Versed on Bass and Guitar, his songs are inspired by good beer, nature, and fish - after all, if he stuck to his day job he&amp;rsquo;d clam up! While the band shares musical leadership, Ian is known as the heart of the band, bringing everyone together.</description>
+    </item>
+    
+    <item>
+      <title>Michelle Yu</title>
+      <link>/bios/michelle/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/bios/michelle/</guid>
+      <description>Michelle Yu is a California native who has been playing violin before even the band can remember! A converted classical musician, the fiddle provides a natural outlet for her day job saving lives. She can be found strumming some old time tunes, clogging away at an Old Time Fest&#39;, or corralling friends into a country line dance.</description>
+    </item>
+    
+    <item>
+      <title>Nat Hendel</title>
+      <link>/bios/nh/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/bios/nh/</guid>
+      <description>Nat Hendel is a true local, coming out of Walnut Creek, CA. Picking up mandolin before it was cool to have a pandemic hobby, Nat is know for his &amp;ldquo;mandolines&amp;rdquo;, that is a mix of badass playing with clever songwriting lyrics.</description>
     </item>
     
   </channel>
